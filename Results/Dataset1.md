@@ -1,10 +1,10 @@
-These are the results for Dataset1, containing SuiteSparce graphs in the range 40MB to 4GB, 371 graphs in total.
+These are the results for Dataset 1, containing SuiteSparce graphs in the range 40MB to 4GB, 371 graphs in total.
 
 |                     | GNN & LS  | QUICK & LS | GNN      | QUICK    | LS       |
 |---------------------|-----------|------------|----------|----------|----------|
-| Best solutions      | 242 / 371 | 122 / 371  | 65 / 371 | 57 / 371 | 77 / 371 |
+| Best solutions      | 242/371 | 122/371  | 65/371 | 57/371 | 77/371 |
 | Average gap to best | 0.01%     | 0.22%      | 0.68%    | 2.52%    | 0.95%    |
-| Average time        | 454.76    | 546.44     | 62.48    | 48.62    | 519.16   |
+| Average time        | 454.76s    | 546.44s     | 62.48s    | 48.62s    | 519.16s   |
 
 |                              |             |             |    GNN & LS   |           |   QUICK & LS  |           |      GNN      |           |     QUICK     |           |       LS      |          |
 |------------------------------|-------------|-------------|:-------------:|:---------:|:-------------:|:---------:|:-------------:|:---------:|:-------------:|:---------:|:-------------:|:--------:|
